@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "912229377404",
+    "project_id": "fitness-app-516d7",
+    "storage_bucket": "fitness-app-516d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912229377404:android:eb455b2d9fe33ea411b0f9",
+        "android_client_info": {
+          "package_name": "com.company.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912229377404:android:63cc1610273f669911b0f9",
+        "android_client_info": {
+          "package_name": "com.example.bodyanalyze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912229377404:android:92a1eefa3e06398f11b0f9",
+        "android_client_info": {
+          "package_name": "com.example.fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912229377404:android:6f7c23b32464b7f311b0f9",
+        "android_client_info": {
+          "package_name": "com.example.fitness1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912229377404:android:55e353c5095c2ba111b0f9",
+        "android_client_info": {
+          "package_name": "com.example.fitt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

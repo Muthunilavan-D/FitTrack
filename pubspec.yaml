@@ -1,0 +1,46 @@
+name: fit
+description: "A new Flutter project."
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lucide_icons: ^0.257.0  
+  cupertino_icons: ^1.0.2
+  sensors_plus: ^4.0.2
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+  uuid: ^4.3.3
+  http: ^1.6.0
+  intl: ^0.17.0
+  image_picker: ^0.8.4
+  firebase_core: ^4.3.0
+  firebase_auth: ^6.1.3
+  cloud_firestore: ^6.1.1
+  firebase_messaging: ^16.1.0
+  firebase_analytics: ^12.1.0
+  google_ml_kit: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/FitTrack.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/FitTrack.png"
