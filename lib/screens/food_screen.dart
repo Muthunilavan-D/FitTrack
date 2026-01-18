@@ -29,7 +29,7 @@ class _FoodScreenState extends State<FoodScreen> {
   
   // Gemini API Key - Make sure this key has proper permissions in Google Cloud Console
   // The key needs access to Gemini API and should not have IP restrictions
-  final String _geminiApiKey = "AIzaSyAF3K5Jnzqyn-ThTUe01mi3im5oitHIU6I";
+  final String _geminiApiKey = "YOUR_API_KEY";
 
   @override
   void initState() {
@@ -1094,3 +1094,4 @@ class _FoodScreenState extends State<FoodScreen> {
     );
   }
 }
+
