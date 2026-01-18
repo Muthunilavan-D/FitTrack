@@ -33,7 +33,7 @@ Local Notifications
 Hive (local storage)
 
 📸 Screenshots
-<p> <img src="assets/Splash.jpg" alt="Splash" width="220"/> <img src="assets/Home.jpg" alt="Home" width="220"/> <img src="assets/Track.jpg" alt="Track" width="220"/> <img src="assets/FoodScan.jpg" alt="Food Scan" width="220"/> <img src="assets/Excercise.jpg" alt="Excercise" width="220"/><img src="assets/Profile.jpg" alt="Profile" width="220"/></p>
+<p> <img src="assets/Splash.jpeg" alt="Splash" width="220"/> <img src="assets/Home.jpeg" alt="Home" width="220"/> <img src="assets/Track.jpeg" alt="Track" width="220"/> <img src="assets/FoodScan.jpeg" alt="Food Scan" width="220"/> <img src="assets/Excercise.jpeg" alt="Excercise" width="220"/><img src="assets/Profile.jpeg" alt="Profile" width="220"/></p>
 📥 Download APK
 
 ⬇️ Download Latest APK
