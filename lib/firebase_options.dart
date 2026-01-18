@@ -37,20 +37,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps',
-    appId: '1:912229377404:web:YOUR_WEB_APP_ID',
-    messagingSenderId: '912229377404',
-    projectId: 'fitness-app-516d7',
-    authDomain: 'fitness-app-516d7.firebaseapp.com',
-    storageBucket: 'fitness-app-516d7.firebasestorage.app',
-    measurementId: 'G-MEASUREMENT_ID',
-  );
+static const FirebaseOptions web = FirebaseOptions(
+  apiKey: 'PH_API_KEY',
+  appId: 'PH_WEB_APP_ID',
+  messagingSenderId: 'PH_MESSAGING_SENDER_ID',
+  projectId: 'PH_PROJECT_ID',
+  authDomain: 'PH_AUTH_DOMAIN',
+  storageBucket: 'PH_STORAGE_BUCKET',
+  measurementId: 'PH_MEASUREMENT_ID',
+);
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCKUyNtzvV2JoAvixFzr5HhQYBUj7GtMps',
-    appId: '1:912229377404:android:92a1eefa3e06398f11b0f9',
-    messagingSenderId: '912229377404',
-    projectId: 'fitness-app-516d7',
-    storageBucket: 'fitness-app-516d7.firebasestorage.app',
-  );
+static const FirebaseOptions android = FirebaseOptions(
+  apiKey: 'PH_API_KEY',
+  appId: 'PH_ANDROID_APP_ID',
+  messagingSenderId: 'PH_MESSAGING_SENDER_ID',
+  projectId: 'PH_PROJECT_ID',
+  storageBucket: 'PH_STORAGE_BUCKET',
+);
+
 } 
